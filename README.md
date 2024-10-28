@@ -1,6 +1,6 @@
 <h1 align="center">こんにちは! 👋 I'm RayYolo</h1>
 <p align="center">
-  <img src="https://th.bing.com/th/id/OIG3.adcyx4YZ883ks3Bd1I6a?w=1024&h=1024&rs=1&pid=ImgDetMain" alt="Anime Coding" width="400"/>
+  <img src="https://as2.ftcdn.net/v2/jpg/05/68/98/15/1000_F_568981524_2irG4VUSs06xbahAihTpkuSfxKkw8FqX.jpg" alt="Anime Coding" width="400"/>
 </p>
 
 <p align="center">
