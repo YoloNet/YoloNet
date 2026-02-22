@@ -42,8 +42,12 @@ I'm open to working with anyone who shares my passion for technology and automat
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yolonet&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yolonet&theme=tokyonight" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YoloNet&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=YoloNet&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YoloNet&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
